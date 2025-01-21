@@ -72,6 +72,8 @@ In the example, a simple chain manager is implemented, there are two main core d
 | Example Added                   | The example for make transaction                                              | ✔️     |
 | IOS Support                     | Support the IOS Build                                                         |  ✔️    |
 | Starknet Support 0.11.0 (**Aug/1/2024**)                    | Support the Starknet newest version         |  ✔️    |
+| Starknet Execute Outside                   | Outside Execution         |  pending    |
+
 ## Contributors
 
 |                                          | Detail                                         |
